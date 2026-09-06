@@ -19,4 +19,31 @@
 
 ---
 
-🚀 Bare-Metal Detection Lab: Configured an isolated physical endpoint to capture genuine telemetry (avoiding sandbox evasion issues) using Sysmon and Wazuh Agent.🎯 Adversary Emulation: Executing controlled procedures via Atomic Red Team to validate MITRE ATT&CK techniques (Credential Access, Privilege Escalation, Persistence).📝 Detection Engineering & Playbooks: Creating custom Wazuh rules, refining log verbosity, and publishing end-to-end incident analysis reports.🛠️ Technical ArsenalCategoryTechnologies & ConceptsDefensive & SIEMWazuh (Manager & Agent), Sysmon, Windows Event Forwarding (WEF), AuditdFrameworks & MethodsMITRE ATT&CK®, Threat Hunting Concepts, Telemetry Baseline TuningEmulation & TestingAtomic Red Team (Invoke-AtomicRedTeam), PowerShell Obfuscation TestingSystems & ScriptingPowerShell, Bash, Linux (Debian/Ubuntu), C++, SQL, GitCore ArchitectureTCP/IP Networking, Active Directory Fundamentals, Process Execution Flow📂 Featured Security Deliverables📘 Bare-Metal SOC Lab Deployment Guide: Complete documentation detailing SIEM installation, network isolation, and Sysmon modular configuration.🔍 T1003.001 - LSASS Memory Dumping Detection: Emulation walkthrough, raw Event ID 10 analysis, and custom alert design.📑 Adversary Detection Report Template: Standardized framework for documenting incidents, technical indicators, and mitigation steps.🤝 Let's talk telemetry, detection rules, or systems architecture!Always open to feedback, collaboration, and defensive security discussions.
+* 🚀 **Bare-Metal Detection Lab:** Configured an isolated physical endpoint to capture genuine telemetry (avoiding sandbox evasion issues) using **Sysmon** and **Wazuh Agent**.
+* 🎯 **Adversary Emulation:** Executing controlled procedures via **Atomic Red Team** to validate MITRE ATT&CK techniques (Credential Access, Privilege Escalation, Persistence).
+* 📝 **Detection Engineering & Playbooks:** Creating custom Wazuh rules, refining log verbosity, and publishing end-to-end incident analysis reports.
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Category | Technologies & Concepts |
+| :--- | :--- |
+| **Defensive & SIEM** | Wazuh (Manager & Agent), Sysmon, Windows Event Forwarding (WEF), Auditd |
+| **Frameworks & Methods** | MITRE ATT&CK®, Threat Hunting Concepts, Telemetry Baseline Tuning |
+| **Emulation & Testing** | Atomic Red Team (Invoke-AtomicRedTeam), PowerShell Obfuscation Testing |
+| **Systems & Scripting** | PowerShell, Bash, Linux (Debian/Ubuntu), C++, SQL, Git |
+| **Core Architecture** | TCP/IP Networking, Active Directory Fundamentals, Process Execution Flow |
+
+---
+
+## 📂 Featured Security Deliverables
+
+- 📘 **Bare-Metal SOC Lab Deployment Guide:** Complete documentation detailing SIEM installation, network isolation, and Sysmon modular configuration.
+- 🔍 **T1003.001 - LSASS Memory Dumping Detection:** Emulation walkthrough, raw Event ID 10 analysis, and custom alert design.
+- 📑 **Adversary Detection Report Template:** Standardized framework for documenting incidents, technical indicators, and mitigation steps.
+
+---
+
+### 🤝 Let's talk telemetry, detection rules, or systems architecture!
+*Always open to feedback, collaboration, and defensive security discussions.*
