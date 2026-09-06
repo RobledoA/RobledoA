@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Banner Dinámico de Ciberseguridad -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=Alan%20Javier%20Robledo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Detection%20Engineering%20%7C%20Blue%20Team%20Aspirant&descFontSize=18&descAlignY=60&descColor=38bdf8" width="100%" alt="Header Banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=Alan%20Javier%20Robledo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BLUE%20TEAM%20IN%20PROGRESS&descFontSize=20&descAlignY=60&descColor=38bdf8" width="100%" alt="Header Banner"/>
 <!-- Badges Sociales & Status -->
 <p align="center">
   <a href="https://linkedin.com/in/TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
