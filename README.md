@@ -4,8 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=Alan%20Javier%20Robledo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BLUE%20TEAM%20IN%20PROGRESS&descFontSize=20&descAlignY=60&descColor=38bdf8" width="100%" alt="Header Banner"/>
 <!-- Badges Sociales & Status -->
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:TU_EMAIL@EJEMPLO.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/alan-robledo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alan_javier_robledo@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Role-Blue_Team_Analyst-0284c7?style=for-the-badge&logo=shield&logoColor=white" alt="Role"/>
   <img src="https://img.shields.io/badge/Focus-Threat_Detection_%26_Telemetry-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
 </p>
