@@ -27,19 +27,6 @@ IT & Systems Analyst developing applied AI solutions and document-retrieval arch
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 [Study RAG (Groq)](https://github.com/tu-usuario/tu-repo)
-Local-first desktop and web app designed to query private study materials (PDF, DOCX, TXT, EPUB).
-* **Architecture:** In-memory / persistent ChromaDB + local embeddings (`all-MiniLM-L6-v2`) to preserve privacy and avoid embedding costs.
-* **Inference:** Fast reasoning via Groq API, forcing strict grounding and document citation.
-* **Interfaces:** Provided as CLI, Desktop GUI, and Web interface.
-
-### 📝 [RAG Architecture & Edge Cases Notes](https://github.com/tu-usuario/tu-repo-o-link)
-Technical write-ups documenting practical bottlenecks in RAG development: chunk overlap tradeoffs, parsing unstructured formats, and dependency management on Hugging Face Spaces.
-
----
-
 <p align="center">
   <i>Open to discussions on RAG architectures, practical AI tooling, and systems integration.</i>
 </p>
