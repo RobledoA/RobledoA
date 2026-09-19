@@ -19,11 +19,11 @@
 
 ### About Me
 
-IT & Systems Analyst developing applied AI solutions and document-retrieval architectures. I focus on building functional, local-first tools with clean code and transparent data flows, avoiding black-box dependencies where simpler solutions work best.
+Advanced student of Information Systems (UBA), specializing in the engineering and practical application of Artificial Intelligence.
 
-- 🔍 **RAG Pipelines:** End-to-end implementation (ingestion, chunking strategies, local semantic search, and context grounding).
-- ⚡ **Inference & APIs:** Integrating low-latency LLM endpoints (Groq) with strict system prompting to minimize hallucination and enforce source attribution.
-- 🖥️ **Practical Tooling:** Creating usable interfaces (Gradio, CLI, Tkinter/Web) and deploying lightweight apps to Hugging Face Spaces.
+My technical focus lies in the efficient fine-tuning of LLMs (Unsloth, LoRA/QLoRA), building local RAG pipelines, and developing agentic systems designed to solve specific workflows. I prioritize viable solutions: inference optimization, data privacy, and architectures free from unnecessary dependencies.
+
+Concurrently, I work as a research intern analyzing AI adoption in the public sector (subnational governments in Argentina). This role allows me to bridge technical implementation with a critical perspective on governance, infrastructure feasibility, and the real-world impact of deploying technology within complex organizations.
 
 ---
 
