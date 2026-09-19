@@ -27,18 +27,6 @@ IT & Systems Analyst developing applied AI solutions and document-retrieval arch
 
 ---
 
-## 🛠️ Tech Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **LLMs & APIs** | Groq API, OpenAI API, Prompt Engineering, Structured Outputs |
-| **Retrieval & Vectors** | ChromaDB, Sentence-Transformers (`all-MiniLM-L6-v2`), Semantic Search |
-| **Document Processing** | PyPDF, python-docx, EbookLib, BeautifulSoup |
-| **Interfaces & Deployment** | Gradio, Flask, Hugging Face Spaces, Docker basics |
-| **Core & Systems** | Python 3.10+, Bash, Linux (Ubuntu/Debian), Git, SQL |
-
----
-
 ## 📌 Featured Projects
 
 ### 📚 [Study RAG (Groq)](https://github.com/tu-usuario/tu-repo)
